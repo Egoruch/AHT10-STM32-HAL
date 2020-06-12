@@ -1,2 +1,4 @@
 # AHT10-STM32-HAL
-![alt text](https://github.com/Egoruch/Filter-Simple-Moving-Average/blob/master/img/moving_average_filtered_stm32.svg)
+![alt text](https://raw.githubusercontent.com/Egoruch/AHT10-STM32-HAL/master/Images/aht10_sensor_photo.jpg)
+![alt text](https://github.com/Egoruch/AHT10-STM32-HAL/blob/master/Images/aht10_cubemx_project.png)
+![alt text](https://github.com/Egoruch/AHT10-STM32-HAL/blob/master/Images/aht10_keil_project.png)
